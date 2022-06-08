@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    width: 30vh;
+    height: 6vh;
+    border: solid goldenrod 10px;
+    background-color: red;
+    min-height: 50vh;
+    max-height: 50vh;
+}

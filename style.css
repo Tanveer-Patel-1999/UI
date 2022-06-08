@@ -1,0 +1,19 @@
+*{
+    background-color:wheat;
+}
+
+/* element selector */
+h1{
+    color: red;
+}
+div{
+    background-color: aquamarine;
+}
+/* id selector */
+#d{
+    color: blue;
+}
+.red{
+    border-color: pink;
+    color: black;
+}
